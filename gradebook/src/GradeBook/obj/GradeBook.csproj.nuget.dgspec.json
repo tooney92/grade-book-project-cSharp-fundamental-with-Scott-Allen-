@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOG\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\TOG\\Documents\\grade-book-project-cSharp-fundamental-with-Scott-Allen-\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOG\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\TOG\\Documents\\grade-book-project-cSharp-fundamental-with-Scott-Allen-\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOG\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\TOG\\Documents\\grade-book-project-cSharp-fundamental-with-Scott-Allen-\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\TOG\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\TOG\\Documents\\grade-book-project-cSharp-fundamental-with-Scott-Allen-\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\TOG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOG\\Desktop\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\TOG\\Documents\\grade-book-project-cSharp-fundamental-with-Scott-Allen-\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TOG\\AppData\\Roaming\\NuGet\\NuGet.Config"
